@@ -58,6 +58,3 @@ for (j in loopv) {
   opt[, j] = rbind(t(t(rep(0, ((101-length(l))/2)))),t(t(pmax(k - sn[l, j], discopt))), t(t(rep(0, ((101-length(l))/2)))))
 }
 print(opt[51,1])
-
-
-
