@@ -7,3 +7,4 @@ given on table 26'
 
 Keywords : option pricing, trinomial tree, american option, stock price tree, no dividend
 
+Author : Konstantin Piliuk
